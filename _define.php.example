@@ -1,0 +1,9 @@
+<?php
+
+define("HOST", "111.111.111.111");
+define("PORT", 8728);
+define("USER", "");
+define("PASS", "");
+define("SITE", "SITE NAME");
+define("TARGET", "google.com");
+define("API_MONITORING", "https://domain.com/api/v1");
